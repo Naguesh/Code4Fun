@@ -1,5 +1,3 @@
-To be viewed only by Vacation Labs
-====================================
 
 The two .cs files uploaded based on the two problems
 
